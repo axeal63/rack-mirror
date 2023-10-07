@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Update Roboflow segmentation Docs pages (#8094)
